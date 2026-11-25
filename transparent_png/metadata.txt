@@ -1,0 +1,16 @@
+[general]
+name=Transparent PNG Tool
+description=Create fully transparent PNGs from a TXT list or selected PNG files while preserving filenames and folder structure.
+about=Create fully transparent PNGs using a relative-path TXT list or directly selected PNG files and an output folder. Preserves image dimensions, filenames and folder structure. Existing outputs are skipped. English and Japanese interface.
+version=1.0.0
+qgisMinimumVersion=3.16
+qgisMaximumVersion=3.99
+author=Rikuto Arita
+email=panyoricomeha6466@gmail.com
+category=Raster
+experimental=False
+deprecated=False
+homepage=https://github.com/panyoricomeha/QGIS-Plugin-TransparentPNGTool
+tracker=https://github.com/panyoricomeha/QGIS-Plugin-TransparentPNGTool/issues
+repository=https://github.com/panyoricomeha/QGIS-Plugin-TransparentPNGTool.git
+tags=raster,xyz,tiles,points
